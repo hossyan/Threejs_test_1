@@ -1,0 +1,2 @@
+GLSL言語らしい
+最初のやつらはjavascriptっぽい
